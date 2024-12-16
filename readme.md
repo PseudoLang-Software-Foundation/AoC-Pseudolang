@@ -2,9 +2,6 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcodeheir.com%2Fwp-content%2Fuploads%2F2021%2F12%2Fadventofcode.jpg&f=1&nofb=1&ipt=30696730c0d8caaaaa163f12e50210a26c41c70a66666471e89e45a32ad65459&ipo=images" height="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-    <svg height="24" width="24" viewBox="0 0 24 24" style="fill: #666;">
-        <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/>
-    </svg>
     <img src="https://github.com/PseudoLang-Software-Foundation/Pseudolang/raw/main/Pseudolang-Logo.png" height="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
 
